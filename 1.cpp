@@ -8,9 +8,13 @@ class MyCalculator
 public:
 	//! \brief Funkcja wykładnicza.
 	//!
+	//!
+	//!
 	//! Funkcja służy do wyznaczania wartości \f$ e^{x} \f$
 	//! za pomocą wzoru
 	//! \f[ e^{x} = \sum_{k=0}^{\infty}{\frac{x^k}{k!}}. \f]
+	//!
+	//! \sin 
 	//!
 	//! \param[in] x - wykładnik funkcji wykładniczej.
 	//!
